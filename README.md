@@ -133,8 +133,7 @@ In the future, We plan on integrating other platforms like HackerRank & Geeksfor
 - [Job Recommendation](https://www.freecodecamp.org/news/how-to-extract-keywords-from-text-with-tf-idf-and-pythons-scikit-learn-b2a0f3d7e667/)
 
 ## Authors
-
+- [Harikrishna Karthikeyan](https://www.linkedin.com/in/harikrishna-k/)
 - [Sameer Pasha](https://www.linkedin.com/in/sameer-pasha/)
 - [Roshni Shaik](https://www.linkedin.com/in/roshni-shaik/)
-- [Harikrishna Karthikeyan](https://www.linkedin.com/in/harikrishna-k/)
 - [Saptarshi Dutta Gupta](https://www.linkedin.com/in/saptarshidg/)
